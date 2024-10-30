@@ -3,7 +3,7 @@ for homework2
 repository name is not available korean word, so my name wirtten "korea_seo_je_won"
 # 5주차 제어공학
 
-### State Variables
+#### State Variables
 푸는 과정에 있어서 어떠한 체계가 있었으면 좋겠다! >> state 도입
 : 수식화할 때, system안에 state를 정의해서, 이 state를 중심으로 문제를 풀어보자 (단순 미방을 푸는 것이 아니라)
 (state끼리도 관계가 형성이 되기도 함)
