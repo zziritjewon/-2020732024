@@ -1,8 +1,7 @@
 
 for homework2
 repository name is not available korean word, so my name wirtten "korea_seo_je_won"
-## 서제원 
-## 2020732024
+
 # 5주차 제어공학
 
 #### State Variables
